@@ -660,7 +660,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: 2d95f8e4-3319-4de2-a0ff-db219f8b7429
   framebufferDepthMemorylessMode: 0
-  projectName: Learning Unity
+  projectName: Maze Proof of Concept
   organizationId: tinmarr
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
